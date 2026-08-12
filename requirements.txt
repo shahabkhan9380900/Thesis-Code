@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+seaborn
+opencv-python
+PyWavelets
+scikit-image
+scikit-learn
+tensorflow
+keras
+joblib
+Pillow
+customtkinter
+jupyter
